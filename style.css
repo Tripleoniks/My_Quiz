@@ -1,0 +1,13 @@
+.quiz {
+  background-color: #00bfa6;
+}
+.container-1 h2 {
+  color: #00bfa6;
+}
+.container-1,
+.container-2 {
+  margin-left: 3rem;
+}
+.result span {
+  color: #00bfa6;
+}
